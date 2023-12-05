@@ -3,7 +3,7 @@
     color: black;
     background-color: rgb(0, 183, 255);
     flex: 1;
-    font-family: Dubai, Verdana, Helvetica, sans-serif;
+    font-family: Dubai;
     align-items: center;
     margin-top: 30px;
     margin-bottom: 30px;
@@ -41,14 +41,14 @@ body {
     margin-right: 75px;
     margin-left: 75px;
     margin-bottom: 75px;
-    font-family: Dubai, Verdana, Helvetica, sans-serif;
+    font-family: Dubai;
 }
 
 .footer>a {
     text-decoration: none;
     color: black;
     background-color: rgb(0, 183, 255);
-    font-family: Dubai, Verdana, Helvetica, sans-serif;
+    font-family: Dubai;
     align-items: center;
     margin: 30px;
     padding-left: 40px;
