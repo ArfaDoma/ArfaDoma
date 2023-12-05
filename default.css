@@ -1,0 +1,135 @@
+.navigation-bar>a {
+    text-decoration: none;
+    color: black;
+    background-color: rgb(0, 183, 255);
+    flex: 1;
+    font-family: Dubai;
+    align-items: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 110px;
+    border-right: 3px solid black;
+    font-size: 18px;
+}
+
+.navigation-bar {
+    background-color: rgb(0, 183, 255);
+    display: flex;
+    flex: 1;
+}
+
+.navigation-bar >:last-child{
+    margin-right: 5px;
+}
+
+.language-change img {
+    margin-top: 30px;
+    margin-right: 30px;
+}
+
+.language-change{
+    margin-left: 70px;
+}
+
+body {
+    margin: 0px;
+    background-color: rgb(222, 238, 254);
+}
+
+.body-info {
+    margin-top: 30px;
+    margin-right: 75px;
+    margin-left: 75px;
+    margin-bottom: 75px;
+    font-family: Dubai;
+}
+
+.footer>a {
+    text-decoration: none;
+    color: black;
+    background-color: rgb(0, 183, 255);
+    font-family: Dubai;
+    align-items: center;
+    margin: 30px;
+    padding-left: 40px;
+    margin-right: 40px;
+    font-size: 18px;
+}
+
+
+.footer {
+    background-color: rgb(0, 183, 255);
+    display: flex;
+    flex: 1;
+}
+
+.footer>:first-child {
+    padding-left: 50px;
+}
+
+.footer >:last-child{
+    padding-right: 353.5px;
+}
+
+.harp-teacher>img {
+    width: 500px;
+    height: auto;
+}
+
+.harp-teacher {
+    float: right;
+    text-align: left;
+    width: 45%;
+}
+
+.body-text {
+    float: left;
+    text-align: left;
+    width: 45%;
+}
+
+.body-info>h2 {
+    text-align: center;
+}
+
+footer {
+    position: absolute;
+    bottom: -620;
+}
+
+/*History of harp page begins here*/
+.arched-harp>img {
+    float: right;
+    width: 40%;
+}
+
+.arched-harp>p {
+    float: left;
+    width: 50%;
+    margin-top: 0;
+}
+
+.angular-harp>img {
+    float: right;
+    width: 40%;
+}
+
+.angular-harp>p {
+    float: left;
+    width: 50%;
+    margin-top: 0;
+}
+
+.angular-harp>h3 {
+    float: left;
+}
+
+.europe-harp1 >p{
+    float: right;
+    margin-top:0;
+}
+
+.europe-harp1>h3 {
+    float: left;
+    margin-top: 150;
+}
